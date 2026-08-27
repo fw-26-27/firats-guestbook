@@ -1,1 +1,19 @@
-*Replace with your own content, instructions in `Exercise.md`*
+Welcome to the most beautiful guestbook in the world. 
+
+         ^
+         | |
+       @#####@
+     (###   ###)-.
+   .(###     ###) \
+  /  (###   ###)   )
+ (=-  .@#####@|_--"
+ /\    \_|l|_/ (\
+(=-\     |l|    /
+ \  \.___|l|___/
+ /\      |_|   /
+(=-\._________/\
+ \             /
+   \._________/
+     #  ----  #
+     #   __   #
+     \########/
