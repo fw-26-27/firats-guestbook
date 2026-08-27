@@ -1,6 +1,6 @@
 Welcome to the most beautiful guestbook in the world. 
-
-         ^
+```text
+^
          | |
        @#####@
      (###   ###)-.
@@ -17,3 +17,4 @@ Welcome to the most beautiful guestbook in the world.
      #  ----  #
      #   __   #
      \########/
+```
